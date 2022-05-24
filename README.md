@@ -4,7 +4,7 @@
 
 I am Muhammad Salihin Bin Zaol-kefli, a professional Software Engineer and hobbyist Game Developer, specializing in real-time interactive simulations. I help companies develop data analysis and visualization tools, and interactive virtual environments.
 
-I have keen interests in Graphics, Tools and Engine programming, Digital Twins, Extended Reality (XR), Cloud Computing, Data Analytics and various Artificial Intelligence fields including Machine Learning and Computer Vision.
+I have keen interests in Graphics, Tools and Engine programming, Digital Twins, Extended Reality (XR), Cloud Computing, Data Analytics, Machine Learning and Computer Vision.
 
 ### Skills
 
