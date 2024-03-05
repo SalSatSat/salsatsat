@@ -21,21 +21,25 @@ I have keen interests in Graphics, Tools and Engine programming, Digital Twins, 
 
 #### Tools and Technologies
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/mongodb-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Mongoose](https://img.shields.io/badge/mongoose-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
+![Socket.io](https://img.shields.io/badge/socket.io-010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
+![MQTT](https://img.shields.io/badge/mqtt-660066.svg?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
-![SteamVR](https://img.shields.io/badge/steamvr-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/microsoftazure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![QGIS](https://img.shields.io/badge/QGIS-%41CD52.svg?style=for-the-badge&logo=qgis)
+![QtDesigner](https://img.shields.io/badge/qt%20designer-589632.svg?style=for-the-badge&logo=qt%20designer)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![QtDesigner](https://img.shields.io/badge/qt%20designer-589632.svg?style=for-the-badge&logo=qt%20designer)
+![3ds Max](https://img.shields.io/badge/3ds%20Max-209B9C.svg?style=for-the-badge&logo=3ds%20Max)
+![SteamVR](https://img.shields.io/badge/steamvr-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 ![Tobii](https://img.shields.io/badge/tobii-231f20.svg?style=for-the-badge&logo=tobii)
 ![SRanipal](https://img.shields.io/badge/sranipal-00AEDE.svg?style=for-the-badge&logo=sranipal)
-![3ds Max](https://img.shields.io/badge/3ds%20Max-209B9C.svg?style=for-the-badge&logo=3ds%20Max)
 
 
 <!--
