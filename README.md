@@ -29,7 +29,7 @@ I have keen interests in Graphics, Tools and Engine programming, Digital Twins, 
 ![MQTT](https://img.shields.io/badge/mqtt-660066.svg?style=for-the-badge&logo=mqtt&logoColor=white)
 ![Postman](https://img.shields.io/badge/postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/githubactions-2088FF.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/microsoftazure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0078D4.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
 ![Figma](https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
